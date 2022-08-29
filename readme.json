@@ -1,0 +1,183 @@
+{
+    "token": "90937419|-31949292645307388|90942996",
+    "cmd": "PUT",
+    "dbName": "Company_Details",
+    "rel": "Company-Rel",
+    "jsonStr": {
+        "id": "1",
+        "company_name": "Siksha",
+        "company_email": "siksha23@gmail.com",
+        "Contact": "8958545698"
+      "No_of_Employees": "100"
+    }
+}
+
+{
+    "token": "90937419|-31949292645307388|90942996",
+    "cmd": "PUT",
+    "dbName": "Company_Details",
+    "rel": "Company-Rel",
+    "jsonStr": {
+        "id": "2",
+        "company_name": "Login2Xplore",
+        "company_email": "login2xplore@gmail.com",
+        "Contact": "9878587845"
+      "No_of_Employees": "500"
+    }
+}{
+    "token": "90937419|-31949292645307388|90942996",
+    "cmd": "PUT",
+    "dbName": "Company_Details",
+    "rel": "Company-Rel",
+    "jsonStr": {
+        "id": "3",
+        "company_name": "XYZ_Solutions",
+        "company_email": "xyz21solutions@gmail.com",
+        "Contact": "8598754789"
+      "No_of_Employees": "250"
+    }
+}{
+    "token": "90937419|-31949292645307388|90942996",
+    "cmd": "PUT",
+    "dbName": "Company_Details",
+    "rel": "Company-Rel",
+    "jsonStr": {
+        "id": "4",
+        "company_name": "amazon",
+        "company_email": "amazonpvtltd@gmail.com",
+        "Contact": "8958545698"
+      "No_of_Employees": "50000"
+    }
+}{
+    "token": "90937419|-31949292645307388|90942996",
+    "cmd": "PUT",
+    "dbName": "Company_Details",
+    "rel": "Company-Rel",
+    "jsonStr": {
+        "id": "5",
+        "company_name": "National_Opticals",
+        "company_email": "care@nationalopticals.com",
+        "Contact": "9658547859"
+      "No_of_Employees": "25"
+    }
+}{
+    "token": "90937419|-31949292645307388|90942996",
+    "cmd": "PUT",
+    "dbName": "Company_Details",
+    "rel": "Company-Rel",
+    "jsonStr": {
+        "id": "6",
+        "company_name": "Akshu_hotspot",
+        "company_email": "akshuhotspot@gmail.com",
+        "Contact": "9812547896"
+      "No_of_Employees": "150"
+    }
+}{
+    "token": "90937419|-31949292645307388|90942996",
+    "cmd": "PUT",
+    "dbName": "Company_Details",
+    "rel": "Company-Rel",
+    "jsonStr": {
+        "id": "7",
+        "company_name": "Sardarjidihatti",
+        "company_email": "sardarjiht@gmail.com",
+        "Contact": "9832569875"
+      "No_of_Employees": "50"
+    }
+}{
+    "token": "90937419|-31949292645307388|90942996",
+    "cmd": "PUT",
+    "dbName": "Company_Details",
+    "rel": "Company-Rel",
+    "jsonStr": {
+        "id": "8",
+        "company_name": "fashion_hub",
+        "company_email": "fashionhub@gmail.com",
+        "Contact": "9852254565"
+      "No_of_Employees": "75"
+    }
+}{
+    "token": "90937419|-31949292645307388|90942996",
+    "cmd": "PUT",
+    "dbName": "Company_Details",
+    "rel": "Company-Rel",
+    "jsonStr": {
+        "id": "9",
+        "company_name": "Marc_Solutions",
+        "company_email": "marcsol@gmail.com",
+        "Contact": "9863568745"
+      "No_of_Employees": "250"
+    }
+}{
+    "token": "90937419|-31949292645307388|90942996",
+    "cmd": "PUT",
+    "dbName": "Company_Details",
+    "rel": "Company-Rel",
+    "jsonStr": {
+        "id": "10",
+        "company_name": "AVTech",
+        "company_email": "avtechnology@gmail.com",
+        "Contact": "9825654789"
+      "No_of_Employees": "1500"
+    }
+}{
+    "token": "90937419|-31949292645307388|90942996",
+    "cmd": "PUT",
+    "dbName": "Company_Details",
+    "rel": "Company-Rel",
+    "jsonStr": {
+        "id": "11",
+        "company_name": "dipikafincon",
+        "company_email": "dipikafin@gmail.com",
+        "Contact": "9852361258"
+      "No_of_Employees": "75"
+    }
+}{
+    "token": "90937419|-31949292645307388|90942996",
+    "cmd": "PUT",
+    "dbName": "Company_Details",
+    "rel": "Company-Rel",
+    "jsonStr": {
+        "id": "12",
+        "company_name": "bajajfincon",
+        "company_email": "bajajfin@gmail.com",
+        "Contact": "9875456985"
+      "No_of_Employees": "350"
+    }
+}{
+    "token": "90937419|-31949292645307388|90942996",
+    "cmd": "PUT",
+    "dbName": "Company_Details",
+    "rel": "Company-Rel",
+    "jsonStr": {
+        "id": "13",
+        "company_name": "Shivangitecsolutions",
+        "company_email": "shivitecsolutions@gmail.com",
+        "Contact": "9825458796"
+      "No_of_Employees": "800"
+    }
+}{
+    "token": "90937419|-31949292645307388|90942996",
+    "cmd": "PUT",
+    "dbName": "Company_Details",
+    "rel": "Company-Rel",
+    "jsonStr": {
+        "id": "14",
+        "company_name": "Hgtech",
+        "company_email": "hgtech@gmail.com",
+        "Contact": "9875852632"
+      "No_of_Employees": "400"
+    }
+}{
+    "token": "90937419|-31949292645307388|90942996",
+    "cmd": "PUT",
+    "dbName": "Company_Details",
+    "rel": "Company-Rel",
+    "jsonStr": {
+        "id": "15",
+        "company_name": "Neeva_solutions",
+        "company_email": "neevasolutions@gmail.com",
+        "Contact": "9832569874"
+      "No_of_Employees": "550"
+    }
+}
